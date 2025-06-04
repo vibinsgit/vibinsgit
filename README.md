@@ -5,19 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibinsgit" alt="vibinsgit" /></a> </p>
 
-- 🔭 I’m currently working on [Medium App](https://github.com/vibinsgit/Medium)
+- 🔭 I’m currently working on [AI Resume Generator](https://github.com/vibinsgit/Medium)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack : Development & Java : DSA**
 
-- 👯 I’m looking to collaborate on **AI & ML Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **AI and ML projects as I want to build real-world applications and expand my knowledge.**
 
 - 👨‍💻 All of my projects are available at [https://vibins-portfolio.netlify.app/](https://vibins-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [Medium](Medium)
-
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Technology & Java.**
 
 - 📫 How to reach me **vibinsv810@gmail.com**
 
